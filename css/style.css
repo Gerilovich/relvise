@@ -84,6 +84,7 @@ body {
 	display: flex;
 	min-height: 104px;
 	align-items: center;
+	justify-content: space-between;
 }
 
 ._container {}
